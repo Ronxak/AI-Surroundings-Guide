@@ -1,6 +1,10 @@
 <div align="center">
   <h1>AI Surroundings Guide</h1>
   <p>An accessible, AI-powered computer vision assistant designed to help the visually impaired understand their physical surroundings through natural language and instant audio feedback.</p>
+  
+  <a href="https://huggingface.co/spaces/Ronxak/AI-Surroundings-Guide">
+    <img src="https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Live%20Demo-blue?style=for-the-badge" alt="Live Demo on Hugging Face">
+  </a>
 </div>
 
 ---
