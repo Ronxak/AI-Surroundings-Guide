@@ -1,14 +1,5 @@
----
-title: AI Surroundings Guide
-emoji: 👁️
-colorFrom: blue
-colorTo: indigo
-sdk: docker
-pinned: false
----
-
 <div align="center">
-  <h1>👁️ AI Surroundings Guide</h1>
+  <h1>AI Surroundings Guide</h1>
   <p>An accessible, AI-powered computer vision assistant designed to help the visually impaired understand their physical surroundings through natural language and instant audio feedback.</p>
 </div>
 
