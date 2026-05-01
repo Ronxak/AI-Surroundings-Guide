@@ -3,7 +3,7 @@ import numpy as np
 from ultralytics import YOLO
 
 # Load the YOLOv8 nano model
-model = YOLO("yolov8n.pt")
+model = YOLO("yolov8s.pt")
 
 def get_spatial_info(x1, y1, x2, y2, img_width, img_height):
     """
