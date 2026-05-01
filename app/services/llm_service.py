@@ -6,7 +6,7 @@ from openai import OpenAI
 load_dotenv()
 
 # We use the standard OpenAI client, but we point it at Groq's servers!
-api_key = os.getenv("GROQ_API_KEY")
+api_key = os.getenv("GROQ_API_KEY") or "missing_key_to_prevent_crash"
 client = OpenAI(
     api_key=api_key,
     base_url="https://api.groq.com/openai/v1"
