@@ -5,8 +5,8 @@
   <a href="https://huggingface.co/spaces/Ronxak/AI-Surroundings-Guide">
     <img src="https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Live%20Demo-blue?style=for-the-badge" alt="Live Demo on Hugging Face">
   </a>
-  <a href="https://ultralytics.com">
-  <img src="https://img.shields.io/badge/YOLO11-Vision-green?style=for-the-badge">
+  <a href="https://ultralytics.com/">
+  <img src="https://img.shields.io/badge/YOLOv8-Vision-green?style=for-the-badge">
 </a>
 
 <a href="https://groq.com">
